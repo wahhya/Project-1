@@ -29,7 +29,7 @@ class _SplashScreenState extends State<SplashScreen> {
         ),
         child: Image.asset(
           "assets/SplashScreen/gmbr1.png",
-          width: 300,
+          width: 320,
           height: 200,
           filterQuality: FilterQuality.high,
         ),
